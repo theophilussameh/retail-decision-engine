@@ -1,0 +1,176 @@
+{
+  "customer_segments": [
+    {
+      "segment_name": "At Risk / Dormant",
+      "num_customers": 65044,
+      "avg_days_since_last_order": 27.6,
+      "avg_orders_count": 8.2,
+      "avg_basket_size": 7.8
+    },
+    {
+      "segment_name": "Bulk Buyers",
+      "num_customers": 34264,
+      "avg_days_since_last_order": 15.2,
+      "avg_orders_count": 12.1,
+      "avg_basket_size": 19.6
+    },
+    {
+      "segment_name": "Regular Customers",
+      "num_customers": 84713,
+      "avg_days_since_last_order": 8.1,
+      "avg_orders_count": 12.5,
+      "avg_basket_size": 7.7
+    },
+    {
+      "segment_name": "VIP / Power Users",
+      "num_customers": 22188,
+      "avg_days_since_last_order": 6.0,
+      "avg_orders_count": 54.6,
+      "avg_basket_size": 9.9
+    }
+  ],
+  "reorder_insights": {
+    "top_loyal_products": [
+      {
+        "product_name": "Half And Half Ultra Pasteurized",
+        "department": "dairy eggs",
+        "reorder_rate": 0.86
+      },
+      {
+        "product_name": "Whole Organic Omega 3 Milk",
+        "department": "dairy eggs",
+        "reorder_rate": 0.86
+      },
+      {
+        "product_name": "Organic Lactose Free Whole Milk",
+        "department": "dairy eggs",
+        "reorder_rate": 0.86
+      },
+      {
+        "product_name": "Organic Homogenized Whole Milk",
+        "department": "dairy eggs",
+        "reorder_rate": 0.86
+      },
+      {
+        "product_name": "Ultra-Purified Water",
+        "department": "beverages",
+        "reorder_rate": 0.86
+      }
+    ],
+    "least_loyal_products": [
+      {
+        "product_name": "Organic Ground Nutmeg",
+        "department": "pantry",
+        "reorder_rate": 0.04
+      },
+      {
+        "product_name": "Cumin Seed",
+        "department": "pantry",
+        "reorder_rate": 0.05
+      },
+      {
+        "product_name": "Ground Ginger",
+        "department": "pantry",
+        "reorder_rate": 0.06
+      },
+      {
+        "product_name": "Cayenne Pepper",
+        "department": "pantry",
+        "reorder_rate": 0.06
+      },
+      {
+        "product_name": "100% Pure Corn Starch",
+        "department": "pantry",
+        "reorder_rate": 0.07
+      }
+    ],
+    "best_department": "dairy eggs",
+    "best_department_rate": 0.64
+  },
+  "peak_hours": [
+    {
+      "department": "babies",
+      "peak_hour": 9
+    },
+    {
+      "department": "bakery",
+      "peak_hour": 10
+    },
+    {
+      "department": "beverages",
+      "peak_hour": 10
+    },
+    {
+      "department": "breakfast",
+      "peak_hour": 10
+    },
+    {
+      "department": "dairy eggs",
+      "peak_hour": 10
+    },
+    {
+      "department": "bulk",
+      "peak_hour": 10
+    },
+    {
+      "department": "missing",
+      "peak_hour": 10
+    },
+    {
+      "department": "household",
+      "peak_hour": 10
+    },
+    {
+      "department": "produce",
+      "peak_hour": 10
+    },
+    {
+      "department": "snacks",
+      "peak_hour": 10
+    },
+    {
+      "department": "personal care",
+      "peak_hour": 10
+    },
+    {
+      "department": "deli",
+      "peak_hour": 11
+    },
+    {
+      "department": "pantry",
+      "peak_hour": 11
+    },
+    {
+      "department": "canned goods",
+      "peak_hour": 11
+    },
+    {
+      "department": "other",
+      "peak_hour": 14
+    },
+    {
+      "department": "dry goods pasta",
+      "peak_hour": 14
+    },
+    {
+      "department": "international",
+      "peak_hour": 15
+    },
+    {
+      "department": "meat seafood",
+      "peak_hour": 15
+    },
+    {
+      "department": "frozen",
+      "peak_hour": 15
+    },
+    {
+      "department": "alcohol",
+      "peak_hour": 15
+    },
+    {
+      "department": "pets",
+      "peak_hour": 16
+    }
+  ]
+}
