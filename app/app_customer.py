@@ -33,5 +33,5 @@ if matches.empty:
 else:
     st.subheader(f"You Might Also Like")
     for _, row in matches.iterrows():
-        st.markdown(f"- **{row['consequents_names']}**  \n"
-                     f"  (confidence: {row['confidence']:.2f}, lift: {row['lift']:.2f})")
+        st.markdown(f"- **{row['consequents_names']}**  \n")
+                   #  f"  (confidence: {row['confidence']:.2f}, lift: {row['lift']:.2f})")
